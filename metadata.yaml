@@ -1,0 +1,36 @@
+_repo: Essays-towards-the-history-of-painting_75528
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Callcott, Maria, Lady
+    aliases:
+    - Graham, Maria Dundas
+    - Callcott, Maria Dundas Graham, Lady
+    - Dundas, Maria
+    - Graham, Maria
+    - Callcott, Lady Maria
+    birthdate: 1785
+    deathdate: 1842
+    gutenberg_agent_id: '9762'
+    url: http://www.gutenberg.org/2009/agents/9762
+    wikipedia: https://en.wikipedia.org/wiki/Maria_Graham
+description: ''
+gutenberg_issued: '2025-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75528'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=hvd.fl37b2&view=1up&seq=11
+pgterms:marc905: 20230617095403callcott
+pgterms:marc906: '1836'
+pgterms:marc907: GB
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aLondon :$bEdward Moxon, $c1836.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Essays towards the history of painting
+url: http://www.gutenberg.org/ebooks/75528
